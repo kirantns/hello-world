@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repositoryon GitHub
+My first repositoryon GitHub.
